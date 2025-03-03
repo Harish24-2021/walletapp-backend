@@ -1,0 +1,17 @@
+#./node_modules# Node.js dependencies
+node_modules/
+
+# Database credentials
+db/config.js
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+
+# Miscellaneous
+.env
